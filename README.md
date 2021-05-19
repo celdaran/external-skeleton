@@ -1,2 +1,3 @@
-# external-skeleton
-atm test repository (can delete later)
+# External Kkeleton
+
+This is an atm test repository, housed externally.

@@ -1,0 +1,8 @@
+{
+    "name": "celdaran/external-skeleton",
+    "description": "Sample composer file",
+    "license": "UNLICENSED",
+    "require": {
+        "php": "^5.5|^7.0"
+    }
+}
